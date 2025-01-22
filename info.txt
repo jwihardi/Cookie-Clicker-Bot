@@ -1,0 +1,10 @@
+{
+ "Name": "TESTING",
+ "ID": "perfect",
+ "Author": "allarkvarkk",
+ "Description": "This is an updated fork of 'More heavenly upgrades'. It is made to be compatible with MHU Remastered and the newest version of the game. You will need CCSE for this to work",
+ "ModVersion": 2.8,
+ "GameVersion": 2.052,
+ "Date": "28/01/2022",
+ "AllowSteamAchievs": 1
+}
